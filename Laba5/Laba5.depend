@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1714220260 source:c:\users\bossd\downloads\Мише\Мише\5laba\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
+1683971892 c:\users\bossd\downloads\Мише\Мише\5laba\camera.h
+
+1715974213 source:c:\users\bossd\downloads\Мише\Мише\5laba\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+
