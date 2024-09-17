@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1716041952 source:c:\users\bossd\downloads\Мише\Мише\6laba\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
+1716041952 source:c:\users\bossd\downloads\Мише\Мише\laba6\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
+1716041952 source:c:\users\bossd\onedrive\Рабочий стол\laba6\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
